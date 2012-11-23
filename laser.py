@@ -10,7 +10,11 @@
 #
 # Sample Run: 
 #
-#
+# $python laser.py --port /dev/tty.usbserial-A7006Yqb
+# opening  /dev/tty.usbserial-A7006Yqb
+# opening stream...
+# ^Cstopping...
+# cleaning up
 #
 ################################################################################
 
